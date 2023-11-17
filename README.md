@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🌱 I’m currently learning **NextJs, Google Cloud**
+
+- 👨‍💻 All of my projects are available at [https://yogeshportfolio-delta.vercel.app/](https://yogeshportfolio-delta.vercel.app/)
+
+- 💬 Ask me about **Something or Nothing**
+
+- 📫 How to reach me **pandeyharsh734@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
