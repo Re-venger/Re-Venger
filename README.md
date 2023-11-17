@@ -22,8 +22,8 @@
 
 [![Re-venger's GitHub | Stats](https://stats.quine.sh/Re-venger/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Re-venger)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=re-venger&show_icons=true&locale=en&layout=compact" alt="re-venger" /></p>
+[![Re-venger's GitHub | Topics Over Time](https://stats.quine.sh/Re-venger/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Re-venger)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=re-venger&show_icons=true&locale=en" alt="re-venger" /></p>
+[![Re-venger's GitHub | Languages Over Time](https://stats.quine.sh/Re-venger/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Re-venger)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=re-venger&" alt="re-venger" /></p>
